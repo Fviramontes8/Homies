@@ -1,2 +1,5 @@
 *.o
 *.out
+
+#Jetbrains config folder
+.idea
