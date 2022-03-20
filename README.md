@@ -12,4 +12,3 @@ To remove object (.o) files and the executable, type:
 
 	make clean
 
-
