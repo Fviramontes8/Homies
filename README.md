@@ -2,14 +2,11 @@
 
 Welcome to a code repository for hosting code written by the Homies. We are part of the UNM IEEE student branch that get together to discuss programming topics.
 
-## Vector class
+Table of Contents
 
-To compile the example go into the VectorClass folder and type:
+##- [Vector class](/VectorClass)
+  - We do some dynamic mem allocation and other magic
 
-	make
-
-To remove object (.o) files and the executable, type:
-
-	make clean
-
+##- [Regex](/Regex)
+  - We use regex to parse some strings
 
