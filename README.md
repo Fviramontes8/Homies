@@ -4,9 +4,9 @@ Welcome to a code repository for hosting code written by the Homies. We are part
 
 Table of Contents
 
-##- [Vector class](/VectorClass)
+## [Vector class](/VectorClass)
   - We do some dynamic mem allocation and other magic
 
-##- [Regex](/Regex)
+## [Regex](/Regex)
   - We use regex to parse some strings
 
