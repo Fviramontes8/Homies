@@ -2,6 +2,8 @@
 
 Welcome to a code repository for hosting code written by the Homies. We are part of the UNM IEEE student branch that get together to discuss programming topics.
 
+Feel free to contribute with a pull request.
+
 Table of Contents
 
 ## [Vector class](/VectorClass)
@@ -9,4 +11,5 @@ Table of Contents
 
 ## [Regex](/Regex)
   - We use regex to parse some strings
+
 
