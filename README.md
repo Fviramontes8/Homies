@@ -1,6 +1,6 @@
 # Homies code
 
-Welcome to a code repository for hosting code written by the Homies. We are part of the UNM IEEE student branch that get together to discuss programming topics.
+Welcome to a code repository for hosting code written by students of the Electrical and Computer Engineering (ECE) and Computer Science (CS). We are part of the University of New Mexico (UNM) IEEE student branch that get together to discuss programming topics.
 
 Feel free to contribute with a pull request.
 
