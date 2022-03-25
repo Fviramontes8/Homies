@@ -4,11 +4,11 @@ Welcome to a code repository for hosting code written by the Homies. We are part
 
 Table of Contents
 
-## [Vector class](/VectorClass)
-  - We do some dynamic mem allocation and other magic
-
 ## [Regex](/Regex)
   - We use regex to parse some strings
+
+## [Vector class](/VectorClass)
+  - We do some dynamic mem allocation and other magic
 
 ## [Matrix class](/MatrixClass)
   - We more dynamic mem allocation for more magic
