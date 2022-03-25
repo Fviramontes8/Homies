@@ -10,3 +10,6 @@ Table of Contents
 ## [Regex](/Regex)
   - We use regex to parse some strings
 
+## [Matrix class](/MatrixClass)
+  - We more dynamic mem allocation for more magic
+
