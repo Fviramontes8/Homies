@@ -1,6 +1,6 @@
 # Homies code
 
-Welcome to a code repository for hosting code written by the Homies. We are part of the UNM IEEE student branch that get together to discuss programming topics.
+No u
 
 Table of Contents
 
