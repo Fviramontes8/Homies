@@ -12,4 +12,5 @@ Table of Contents
 
 ## [Matrix class](/MatrixClass)
   - We more dynamic mem allocation for more magic
+  - This depends on the [VectorClass](/VectorClass)
 
