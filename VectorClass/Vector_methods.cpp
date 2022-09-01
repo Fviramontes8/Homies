@@ -12,6 +12,14 @@ Vector::~Vector() {
 	delete[] _values;
 }
 
+int* Vector::begin() const {
+	return size() ? &_values[0] : nullptr;
+}
+
+int* Vector::end() const {
+	return size() ? &_values[0]+size() : nullptr;
+}
+
 size_t Vector::size() const {
 	return _size;
 	//return this->_size;

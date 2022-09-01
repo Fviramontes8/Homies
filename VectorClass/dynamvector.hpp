@@ -14,6 +14,9 @@ class Vector {
 
 		~Vector();
 
+		int* begin() const;
+		int* end() const;
+
 		size_t size() const;
 		void print() const;
 
